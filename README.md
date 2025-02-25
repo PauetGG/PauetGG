@@ -1,8 +1,10 @@
 # PAU GALLARDO GIRALT 👋
 #### I am currently studying a higher degree in DAM (Development of Multiplatform Applications) and a Full Stack Junior Web Developer with Java bootcamp.
-## 💻 TECH STACK
 
-![image](https://github.com/user-attachments/assets/100468f9-e9e7-4a2d-8536-05122f57d674) ![image](https://github.com/user-attachments/assets/f77c878f-1e34-40fe-8a02-f7021c45372d) ![image](https://github.com/user-attachments/assets/c6510619-4655-453d-99b6-fb572a18e6db) ![image](https://github.com/user-attachments/assets/d2ada433-8b16-493a-bc56-3197e75a749d) 
+## 💻 TECH STACK
+![Tableau logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Oracle logo](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)  ![MongoDB logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![MYSQL logo](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![Laravel logo](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![IntellIJ logo](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSCode logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![HTML Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Kotlin Logo](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP logo](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![VirtualBox Logo](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+
+
 
 
 
