@@ -2,7 +2,11 @@
 #### I am currently studying a higher degree in DAM (Development of Multiplatform Applications) and a Full Stack Junior Web Developer with Java bootcamp.
 ## 💻 TECH STACK
 
-![Java Logo](https://github.com/user-attachments/assets/a2c1e626-b173-4305-b9c4-24e152e21616) ![PHP logo](https://github.com/user-attachments/assets/eb60a20c-2e60-4984-875c-0777d5252a93L) ![Laravel Logo](https://github.com/user-attachments/assets/2ec61a61-a79d-49c4-85e8-2877cf828b67) ![JavaFX Logo](https://github.com/user-attachments/assets/cfb8194b-8a40-4011-9247-744e8fdfb945) 
+![image](https://github.com/user-attachments/assets/100468f9-e9e7-4a2d-8536-05122f57d674) ![image](https://github.com/user-attachments/assets/f77c878f-1e34-40fe-8a02-f7021c45372d) ![image](https://github.com/user-attachments/assets/c6510619-4655-453d-99b6-fb572a18e6db) ![image](https://github.com/user-attachments/assets/d2ada433-8b16-493a-bc56-3197e75a749d) 
+
+
+
+
  
 
 
