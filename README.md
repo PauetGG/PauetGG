@@ -1,5 +1,5 @@
 # PAU GALLARDO GIRALT 👋
-Estudiante de un ciclo superior de DAM vía online en la Salle de Barcelona (Desarrollo de aplicaciones Multiplataforma) y simultaneamente estoy cursando un bootcamp de FullStack Junior Web Software Developer con Java. 
+Graduado en el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) por La Salle de Barcelona (modalidad online). Actualmente continúo ampliando mis competencias como desarrollador cursando un bootcamp intensivo de Full Stack Junior Web Software Developer con Java.
 
 ## TECNOLOGÍAS QUE ESTOY EMPLEANDO:
 
