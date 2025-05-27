@@ -13,7 +13,6 @@ Estudiante de un ciclo superior de DAM vía online en la Salle de Barcelona (Des
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:paugallardogiralt@gmail.com)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pau-gallardo-giralt-ba2265266/)
 
-## COSAS QUE ME APASIONAN 
 
 
 
